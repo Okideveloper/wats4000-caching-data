@@ -47,7 +47,7 @@ export default {
   color: red;
 }
 .success {
-  background: green;
+  background: rgb(47, 120, 138);
   color: white;
 }
 .info {
